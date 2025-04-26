@@ -1,0 +1,48 @@
+/* Success Page Styling */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #e0f7fa;
+  margin: 0;
+  padding: 0;
+}
+
+.form-container {
+  max-width: 500px;
+  margin: 50px auto;
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+h2 {
+  color: #4caf50;
+  font-size: 2rem;
+  margin-bottom: 15px;
+}
+
+p {
+  font-size: 1.2rem;
+  color: #333;
+}
+
+button {
+  margin-top: 20px;
+  padding: 12px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  font-size: 1rem;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+a {
+  text-decoration: none;
+}
